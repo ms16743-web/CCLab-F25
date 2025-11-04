@@ -1,0 +1,7 @@
+<script>start("/Users/nyush/Desktop/CCLab-F25/object-dancers/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("js","js",1,96,"96 B",1761791911,"10/30/25, 10:38:31 AM");</script>
+<script>addRow("lib","lib",1,128,"128 B",1761791911,"10/30/25, 10:38:31 AM");</script>
+<script>addRow("index.html","index.html",0,670,"670 B",1745792718,"4/28/25, 6:25:18 AM");</script>
+<script>addRow("sketch.js","sketch.js",0,4415,"4.3 kB",1762250630,"11/4/25, 6:03:50 PM");</script>
+<script>addRow("style.css","style.css",0,147,"147 B",1745792718,"4/28/25, 6:25:18 AM");</script>
